@@ -1,0 +1,10 @@
+{"run_id":"spark_high_01","service":"spark-worker","container":"","action":"kill","phase":"fault_start","timestamp_ms":1780062340341,"delay_seconds":300,"duration_seconds":20,"count":1}
+{"run_id":"spark_high_01","service":"spark-worker","container":"projeto-ssc0904-grupo02-spark-worker-1","action":"kill","phase":"container_fault_start","timestamp_ms":1780062340341,"delay_seconds":300,"duration_seconds":20,"count":1}
+{"run_id":"spark_high_01","service":"spark-worker","container":"","action":"kill","phase":"fault_end","timestamp_ms":1780062360659,"delay_seconds":300,"duration_seconds":20,"count":1}
+{"run_id":"spark_high_01","service":"spark-worker","container":"projeto-ssc0904-grupo02-spark-worker-1","action":"kill","phase":"container_fault_end","timestamp_ms":1780062360659,"delay_seconds":300,"duration_seconds":20,"count":1}
+{"run_id":"spark_high_01","service":"spark-worker","container":"","action":"kill","phase":"fault_start","timestamp_ms":1780064222104,"delay_seconds":300,"duration_seconds":20,"count":1}
+{"run_id":"spark_high_01","service":"spark-worker","container":"projeto-ssc0904-grupo02-spark-worker-1","action":"kill","phase":"container_fault_start","timestamp_ms":1780064222104,"delay_seconds":300,"duration_seconds":20,"count":1}
+{"run_id":"spark_high_01","service":"spark-worker","container":"","action":"kill","phase":"fault_start","timestamp_ms":1780067773073,"delay_seconds":300,"duration_seconds":20,"count":1}
+{"run_id":"spark_high_01","service":"spark-worker","container":"projeto-ssc0904-grupo02-spark-worker-1","action":"kill","phase":"container_fault_start","timestamp_ms":1780067773073,"delay_seconds":300,"duration_seconds":20,"count":1}
+{"run_id":"spark_high_01","service":"spark-worker","container":"","action":"kill","phase":"fault_end","timestamp_ms":1780067773301,"delay_seconds":300,"duration_seconds":20,"count":1}
+{"run_id":"spark_high_01","service":"spark-worker","container":"projeto-ssc0904-grupo02-spark-worker-1","action":"kill","phase":"container_fault_end","timestamp_ms":1780067773301,"delay_seconds":300,"duration_seconds":20,"count":1}

@@ -1,0 +1,6 @@
+scenario,eps,duration
+low,50,250
+medium,100,250
+high,400,250
+fault_medium,100,250
+fault_high,400,250

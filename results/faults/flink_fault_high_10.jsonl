@@ -1,0 +1,4 @@
+{"run_id":"flink_fault_high_10","service":"taskmanager","container":"","action":"stop-start","phase":"fault_start","timestamp_ms":1780257023498,"delay_seconds":120,"duration_seconds":10,"count":1}
+{"run_id":"flink_fault_high_10","service":"taskmanager","container":"projeto-ssc0904-grupo02-taskmanager-3","action":"stop-start","phase":"container_fault_start","timestamp_ms":1780257023498,"delay_seconds":120,"duration_seconds":10,"count":1}
+{"run_id":"flink_fault_high_10","service":"taskmanager","container":"","action":"stop-start","phase":"fault_end","timestamp_ms":1780257034809,"delay_seconds":120,"duration_seconds":10,"count":1}
+{"run_id":"flink_fault_high_10","service":"taskmanager","container":"projeto-ssc0904-grupo02-taskmanager-3","action":"stop-start","phase":"container_fault_end","timestamp_ms":1780257034809,"delay_seconds":120,"duration_seconds":10,"count":1}

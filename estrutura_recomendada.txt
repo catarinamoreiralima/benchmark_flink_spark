@@ -1,0 +1,36 @@
+ANEXO TÉCNICO – Ferramentas, Ambiente e Reprodutibilidade
+
+A1. Stack Tecnológica Recomendada
+
+- Execução obrigatória via Docker e Docker Compose.
+- Broker Kafka / RPC / REST (conforme trilha) (Mosquitto recomendado).
+- Banco de dados de séries temporais (Redis / armazenamento conforme projeto ou armazenamento conforme projeto).
+- API intermediária (FastAPI ou equivalente).
+- Dashboard (Grafana ou solução equivalente).
+- Scripts automatizados para execução experimental.
+
+A2. Ferramentas Estatísticas
+
+- Cálculo de média, desvio padrão e IC95.
+- Comparação com baseline definido.
+- Geração automática de gráficos via script.
+
+A4. Estrutura Recomendada de Repositório
+
+Estrutura mínima sugerida:
+
+├── docker-compose.yml
+├── README.md
+├── src/
+├── data/
+├── experiments/
+├── scripts/
+├── results/
+
+
+A5. Diretriz de Reprodutibilidade
+
+- Scripts automatizados para execução completa do experimento.
+- Versões fixadas de dependências.
+- Documentação clara no README.
+- Estrutura organizada de dados e resultados.

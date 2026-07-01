@@ -1,0 +1,8 @@
+{"run_id":"spark_fault_medium_05","service":"spark-worker","container":"","action":"kill","phase":"fault_start","timestamp_ms":1780231245074,"delay_seconds":120,"duration_seconds":10,"count":1}
+{"run_id":"spark_fault_medium_05","service":"spark-worker","container":"projeto-ssc0904-grupo02-spark-worker-1","action":"kill","phase":"container_fault_start","timestamp_ms":1780231245074,"delay_seconds":120,"duration_seconds":10,"count":1}
+{"run_id":"spark_fault_medium_05","service":"spark-worker","container":"","action":"kill","phase":"fault_end","timestamp_ms":1780231245290,"delay_seconds":120,"duration_seconds":10,"count":1}
+{"run_id":"spark_fault_medium_05","service":"spark-worker","container":"projeto-ssc0904-grupo02-spark-worker-1","action":"kill","phase":"container_fault_end","timestamp_ms":1780231245290,"delay_seconds":120,"duration_seconds":10,"count":1}
+{"run_id":"spark_fault_medium_05","service":"spark-worker","container":"","action":"kill","phase":"fault_start","timestamp_ms":1780249198476,"delay_seconds":120,"duration_seconds":10,"count":1}
+{"run_id":"spark_fault_medium_05","service":"spark-worker","container":"projeto-ssc0904-grupo02-spark-worker-1","action":"kill","phase":"container_fault_start","timestamp_ms":1780249198476,"delay_seconds":120,"duration_seconds":10,"count":1}
+{"run_id":"spark_fault_medium_05","service":"spark-worker","container":"","action":"kill","phase":"fault_end","timestamp_ms":1780249198660,"delay_seconds":120,"duration_seconds":10,"count":1}
+{"run_id":"spark_fault_medium_05","service":"spark-worker","container":"projeto-ssc0904-grupo02-spark-worker-1","action":"kill","phase":"container_fault_end","timestamp_ms":1780249198660,"delay_seconds":120,"duration_seconds":10,"count":1}

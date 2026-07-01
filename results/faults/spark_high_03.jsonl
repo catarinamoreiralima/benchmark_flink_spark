@@ -1,0 +1,2 @@
+{"run_id":"spark_high_03","service":"spark-master","container":"","action":"kill","phase":"fault_start","timestamp_ms":1780065481553,"delay_seconds":300,"duration_seconds":20,"count":1}
+{"run_id":"spark_high_03","service":"spark-master","container":"projeto-ssc0904-grupo02-spark-master-1","action":"kill","phase":"container_fault_start","timestamp_ms":1780065481553,"delay_seconds":300,"duration_seconds":20,"count":1}
